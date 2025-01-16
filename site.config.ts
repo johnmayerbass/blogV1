@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'https://fairyvas.vercel.app/',
+  domain: 'https://fairyvas2.vercel.app/',
   author: 'John Mayer',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Diary for JohnMayer',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
